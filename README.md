@@ -46,7 +46,7 @@ The `object` labels (i.e columns with `object`) where then encoded with Pandas `
 
 The dimensions of the standardized features DataFrame, `X_scaled`, were reduced using Principal Component Analysis (PCA) to three principal components.
 
-![PCA Table](mltechptwy-mod-2-dev-3-pca.png)
+![PCA Table](img/mltechptwy-mod-2-dev-3-pca.png)
 
 ### Deliverable 3: Clustering Cryptocurrencies Using K-means (30 points)
 
