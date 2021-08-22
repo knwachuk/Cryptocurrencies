@@ -9,7 +9,7 @@ The analysis is divided into **4** distinct phases (highligthed below).
 1. Deliverable 1: Preprocessing the Data for PCA (30 points)
 2. Deliverable 2: Reducing Data Dimensions Using PCA (20 points)
 3. Deliverable 3: Clustering Cryptocurrencies Using K-means (30 points)
-~4. Deliverable 4: Visualizing Cryptocurrencies Results (30 points)~
+4. ~Deliverable 4: Visualizing Cryptocurrencies Results (30 points)~
 
 ### Deliverable 1: Preprocessing the Data for PCA (30 points)
 
@@ -54,8 +54,20 @@ To find the value for `k` to optimally cluster the dataset, the elbow curve was 
 
 ![Elbow Curve](img/mltechptwy-mod-2-dev-3-elbow-curve.png)
 
+The figure indicates that the optimal `k` is 4.
+
 ## Results
 
 ### Deliverable 4: Visualizing Cryptocurrencies Results (30 points)
+
+#### 3D-Scatter with Clusters
+
+After clustering the PCA data with the K-means algorithm to produce `Class` data, a 3D-Scatter of the data, highlighted with the `Class` information was done to visualize the result of the previous analyses.
+
+![3D-Scatter with Cluster](img/mltechptwy-mod-2-dev-3-3d-scatter.png)
+
+#### Cluster Assessment
+
+There are 4 very distinct clusters with 2 sharing a few data points amongst each other.
 
 ## Summary
