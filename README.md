@@ -71,3 +71,5 @@ After clustering the PCA data with the K-means algorithm to produce `Class` data
 There are 4 very distinct clusters with 2 sharing a few data points amongst each other.
 
 ## Summary
+
+![hvplot Scatter](img/mltechptwy-mod-2-dev-4-hvplot-scatter.png)
